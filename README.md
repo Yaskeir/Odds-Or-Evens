@@ -1,2 +1,2 @@
-# Odds-Or-Evens-game
+# Odds-Or-Evens
 Odds or evens game written in Java
